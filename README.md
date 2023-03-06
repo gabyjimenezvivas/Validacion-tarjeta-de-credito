@@ -458,37 +458,37 @@ Project Feedback:
 * [ ] El proyecto será entregado subiendo tu código a GitHub.
 * [ ] La interfaz será "desplegada" usando GitHub Pages.
 * [ ] El README contiene una definición del producto.
+
+
 # Validacion-tarjeta-de-credito
 
+## Validación de tarjeta de crédito
 
-Título
-Validación de tarjeta de crédito
-
-1. Preámbulo 🚀
+## 1. Preámbulo 🚀
 
 Como validar una tarjeta de crédito con el algoritmo de luhn,  es un método de suma de verificación, se utiliza para validar números de identificación; tales como el IMEI de los celulares, tarjetas de crédito, etc.
 
 
 
-2. Resumen del proyecto
+## 2. Resumen del proyecto
 
-En este proyecto tuve que construir una aplicación web que le permita a un usuario validar el número de una tarjeta de crédito. Además, tendre que implementar funcionalidad para ocultar todos los dígitos de una tarjeta menos los últimos cuatro.
+En este proyecto tuve que construir una aplicación web que le permita a un usuario validar el número de una tarjeta de crédito. Además, tendré que implementar funcionalidad para ocultar todos los dígitos de una tarjeta menos los últimos cuatro.
 
-En mi caso mi tematica es para los usuarios que quieran pagar un servicio  de Streaming
-
-
-
-3. Consideraciones generales
-
-°Lo ideal es termianr este proyecto.
-°Enfocarase en aprender y no terminarlo.
-°Leer, buscar informacion, preguntar antes de empezar a codear. 
+En mi caso mi temática es para los usuarios que quieran pagar un servicio  de Streaming
 
 
 
-4. Consideraciones tecnicas
+## 3. Consideraciones generales
 
-En este proyecto solo  utilicé  JavasCript puro que se conoce como vanilla JavasCript, para comenzar mi proyecto tuve que hacer fork y clonar, Lei, investigue, vi videos antes de codear, en lo primero que tarbaje fue en mi HTML, hice todas mis funciones que tenia que implemetar para hacelo funcionar, como la funcion del algoritmo de Luhn y la funcion del maskify, asi como tambien trabaje en CSS para darle estilo, trabaje en mis pruebas unitarias y en subirlo al repositirio de GitHut.
+° Lo ideal es terminar este proyecto.
+° Enfocarse en aprender y no terminarlo.
+° Leer, buscar información, preguntar antes de empezar a codear. 
+
+
+
+## 4. Consideraciones técnicas
+
+En este proyecto solo  utilicé JavaScript puro que se conoce como vanilla JavaScript, para comenzar mi proyecto tuve que hacer fork y clonar, Lei, investigue, vi videos antes de codear, en lo primero que trabaje fue en mi HTML, hice todas mis funciones que tenia que implementar para hacerlo funcionar, como la función del algoritmo de Luhn y la función del maskify, así como también trabaje en CSS para darle estilo, trabaje en mis pruebas unitarias y en subirlo al repositorio de GitHub.
 
 
 
