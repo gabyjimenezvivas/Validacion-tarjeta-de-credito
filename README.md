@@ -488,10 +488,10 @@ En mi caso mi tematica es para los usuarios que quieran pagar un servicio  de St
 
 4. Consideraciones tecnicas
 
-En este proyecto solo se utilice JavasCript puro que se conoce como vanilla JavasCript, para comenzar mi proyecto tuve que hacer fork y clonar, Lei, investigue, vi videos antes de codear, en lo primer que tarbaje fue en mi HTML, hice todas mis funciones que tenia que implemtar para hacelo funcionar, como la funcion del algoritmo de Luhn y la funcion del maskify, asi como tambien trabaje en CSS para darle estilo, trabaje en mis pruebas unitarias y en subir al repositirio de GitHut.
+En este proyecto solo  utilicé  JavasCript puro que se conoce como vanilla JavasCript, para comenzar mi proyecto tuve que hacer fork y clonar, Lei, investigue, vi videos antes de codear, en lo primero que tarbaje fue en mi HTML, hice todas mis funciones que tenia que implemetar para hacelo funcionar, como la funcion del algoritmo de Luhn y la funcion del maskify, asi como tambien trabaje en CSS para darle estilo, trabaje en mis pruebas unitarias y en subirlo al repositirio de GitHut.
 
 
-Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Piensa en eso al decidir tu estrategia de trabajo.
+
 
 ### HTML
 
