@@ -481,7 +481,9 @@ En mi caso mi temática es para los usuarios que quieran pagar un servicio  de S
 ## 3. Consideraciones generales
 
 ° Lo ideal es terminar este proyecto.
+
 ° Enfocarse en aprender y no terminarlo.
+
 ° Leer, buscar información, preguntar antes de empezar a codear. 
 
 
